@@ -69,7 +69,7 @@ El objetivo de este proyecto es practicar conceptos de Angular como:
 - Navegación con navbar responsiva
 - Estilos con TailwindCSS y DaisyUI
 
-## Learning 
+## Aprendizajes
 
 - Cómo funcionan los pipes de Angular
 - Creación de pipes personalizados
